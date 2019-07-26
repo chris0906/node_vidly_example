@@ -1,0 +1,4 @@
+{
+    "privateKey" : "123456",
+    "db" : "mongodb://localhost/saleManagement_test"
+}
